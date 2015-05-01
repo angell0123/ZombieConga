@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//Test for Github 3
+using UnityEngine;
 using System.Collections;
 
 public class CatController : MonoBehaviour {
