@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/heartController.cs">
     <Files>
-      <File FileName="Assets/Scripts/heartController.cs" Line="1" Column="18" />
-      <File FileName="Assets/Scripts/EnemyController.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/heartController.cs" Line="2" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
